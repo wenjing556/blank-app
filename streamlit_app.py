@@ -478,4 +478,4 @@ with col_adv2:
 
 # 页脚
 st.markdown("---")
-st.caption("⚠️ 本工具基于UK Biobank横断面数据构建，仅供参考，不能替代专业医疗诊断。")
+st.caption("⚠️ 本工具基于UK Biobank、中山数据构建，仅供参考，不能替代专业医疗诊断。")
